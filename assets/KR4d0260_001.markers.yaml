@@ -209,6 +209,7 @@ markers:
   - {type: substitution, offset: 609, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: substitution, offset: 614, original: 歳, replacement: 歲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19452}}
   - {type: punctuation, offset: 623, content: (, id: KR4d0260_krp_001-bkkpn1}
+  - {type: voice, offset: 623, length: 12, name: note, id: n1}
   - {type: punctuation, offset: 627, content: /, id: KR4d0260_krp_001-bkkpn2}
   - {type: punctuation, offset: 631, content: ), id: KR4d0260_krp_001-bkkpn3}
   - {type: 'kr:newline', offset: 631, content: '
@@ -1179,4 +1180,4 @@ markers:
 
       ', id: KR4d0260_krp_001-bkkkrnewl251}
   back: []
-hash: sha256:ede86bfc0a425077831f2736bf516e8ae9adf4d4b6d59f918b557cf135b481b2
+hash: sha256:e8f1e3756f5fb89fabc15bb28dc7fe79f86ab577a65ccc2d7372b03cc0c9535a
